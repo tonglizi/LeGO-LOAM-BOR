@@ -4,6 +4,7 @@
 #include "lego_loam/utility.h"
 #include "lego_loam/channel.h"
 #include "lego_loam/nanoflann_pcl.h"
+#include <pcl/search/impl/search.hpp>
 
 #include <gtsam/geometry/Pose3.h>
 #include <gtsam/geometry/Rot3.h>
